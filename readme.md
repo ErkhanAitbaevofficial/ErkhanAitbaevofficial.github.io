@@ -1,4 +1,3 @@
 # my portfolio
 
-https://erkhanaitbaevofficial.github.io/
-git
+https://erkhanaitbaevofficial.github.io
